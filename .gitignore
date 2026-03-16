@@ -1,0 +1,17 @@
+# --- Python build artifacts ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- IDE settings (PyCharm) ---
+.idea/
+
+# --- Local output and media files ---
+# These files are ignored to keep the repository clean and avoid large binary files
+*.avi
+*.mp4
+captures/
+
+# --- System temporary files ---
+.DS_Store
+Thumbs.db
